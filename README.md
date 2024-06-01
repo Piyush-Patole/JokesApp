@@ -15,3 +15,11 @@ Technical Requirements =>
 
 Joke Management =>
 Jokes are retrieved dynamically from the JokeAPI. There is no local storage of jokes since they are fetched in real-time from the external API.
+
+Screenshots =>
+
+![Screenshot (7)](https://github.com/Piyush-Patole/JokesApp/assets/73785010/26ae7778-8893-48db-8ffd-03775bd5a0c1)
+
+![Screenshot (8)](https://github.com/Piyush-Patole/JokesApp/assets/73785010/135eeef8-8e4d-42be-b97c-ab429ff4439b)
+
+![Screenshot (9)](https://github.com/Piyush-Patole/JokesApp/assets/73785010/dc04b4d1-95dc-4aba-a75e-06e62860fad9)
