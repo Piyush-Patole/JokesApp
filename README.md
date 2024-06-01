@@ -4,7 +4,7 @@ A Joke App created using Node.js, Express, and EJS. This application fetches jok
 Features =>
 1. Name-based Jokes: Users can enter their name to receive a personalised joke.
 2. Joke Retrieval: Fetches jokes from the JokeAPI.
-3. Personalization: Replaces "Chuck Norris" in jokes with the user's name.
+3. Personalization: Adds personalisation in jokes with the user's name.
 4. Styling: The application is styled with a vibrant, modern CSS, including gradients and pop colors.
 
 Technical Requirements => 
